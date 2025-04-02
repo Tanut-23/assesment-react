@@ -30,13 +30,13 @@ const Home = () => {
   const handleUserClick = () => {
     setShowContent("user");
     setLocation("Home");
-    setAssessment("User Sector");
+    setAssessment("User Section");
   };
 
   const handleAdminClick = () => {
     setShowContent("admin");
     setLocation("Home");
-    setAssessment("Admin Sector");
+    setAssessment("Admin Section");
   };
   return (
     <div className="bg-[#e8e8e8] w-screen h-screen">
