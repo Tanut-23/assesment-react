@@ -1,5 +1,3 @@
-import { useEffect, useState } from "react";
-import axios from "axios";
 
 export default function User({user}) {
 console.log(user)

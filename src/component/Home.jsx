@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import Admin from "../pages/Admin";
-import User from "../pages/user";
+import User from "../pages/User";
 import axios from "axios";
 
 const Home = () => {
